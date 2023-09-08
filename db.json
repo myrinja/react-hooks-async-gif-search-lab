@@ -1,0 +1,81 @@
+{
+  "gifs": [
+    {
+      "id": "gif1",
+      "title": "Funny Cat",
+      "url": "https://media2.giphy.com/media/l4KibK3JwaVo0CjDO/200.webp?cid=ecf05e47i9vrvvnljflprtqov4zqqjwcdjp98rmxdz1w75oj&ep=v1_gifs_search&rid=200.webp&ct=g"
+    },
+    {
+      "id": "gif2",
+      "title": "Dancing Dog",
+      "url": "https://media.giphy.com/media/13CoXDiaCcCoyk/giphy.gif"
+    },
+    {
+      "id": "gif3",
+      "title": "Cute Penguin",
+      "url": "https://media1.giphy.com/media/oKwLg72vjwhIvDTpHA/200w.webp?cid=ecf05e47o63l6cgwmvhu8bfm2a1q0bfaknmswa9vmsyaliwd&ep=v1_gifs_search&rid=200w.webp&ct=g"
+    },
+    {
+      "id": "gif4",
+      "title": "Laughing Baby",
+      "url": "https://media4.giphy.com/media/MSuY2skV3xbby/200.webp?cid=ecf05e47fywm8yrpygt2irjjixrmiylg3wkjqylg3ahor3ww&ep=v1_gifs_search&rid=200.webp&ct=g"
+    },
+    {
+      "id": "gif5",
+      "title": "Excited Kid",
+      "url": "https://media4.giphy.com/media/4grWIHtoOkxKo/200w.webp?cid=ecf05e47fywm8yrpygt2irjjixrmiylg3wkjqylg3ahor3ww&ep=v1_gifs_search&rid=200w.webp&ct=g"
+    },
+    {
+      "id": "gif6",
+      "title": "Playful Kittens",
+      "url": "https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif"
+    },
+    {
+      "id": "gif7",
+      "title": "Happy Bunny",
+      "url": "https://media.giphy.com/media/8fen5LSZcHQ5E/giphy.gif"
+    },
+    {
+      "id": "gif8",
+      "title": "Sneezing Panda",
+      "url": "https://media.giphy.com/media/u1PQG07pzWYfrdNwtX/giphy.gif"
+    },
+    {
+      "id": "gif9",
+      "title": "Cuddling Koalas",
+      "url": "https://media.giphy.com/media/12NUbkX6p4xOO4/giphy.gif"
+    },
+    {
+      "id": "gif10",
+      "title": "Happy Hedgehog",
+      "url": "https://media.giphy.com/media/hw6sbgB1F45p6/giphy.gif"
+    },
+    {
+      "id": "gif11",
+      "title": "Jumping Dolphins",
+      "url": "https://media.giphy.com/media/11f8o7yHmGnwR2/giphy.gif"
+    },
+    {
+      "id": "gif12",
+      "title": "Giggling Squirrel",
+      "url": "https://media.giphy.com/media/v2xIous7mnEYg/giphy.gif"
+    },
+    {
+      "id": "gif13",
+      "title": "Sleepy Owl",
+      "url": "https://media.giphy.com/media/8vQSQ3cNXuDGo/giphy.gif"
+    },
+    {
+      "id": "gif14",
+      "title": "Funny Ferret",
+      "url": "https://media.giphy.com/media/1C8bHHJturSx2/giphy.gif"
+    },
+    {
+      "id": "gif15",
+      "title": "Happy Puppies",
+      "url": "https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif"
+    }
+  ]
+}
+
+
